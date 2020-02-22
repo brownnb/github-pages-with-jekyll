@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Why Code Rocks! 
 
-I'm glad you are here. I plan to talk about ...
+Coding had the ability to transform circumstances, be innovative and creative; keeping you curious and wanting more.
